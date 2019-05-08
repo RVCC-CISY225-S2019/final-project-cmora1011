@@ -7,14 +7,13 @@ This project is my About Me page, including a personal section, photo gallery wi
 
 The Webpage includes the following:
 
-Header showing a logo and title.
+
 Navbar with responsive single page navigation using a element with links to parts of the page.
 A section about my profile including a photo and facts about myself.
 Photo gallery
 Article on a short story of Sherlock Holmes
-blog article- "CSS Cursors"
+Article- "CSS Cursors"
 A form for users to contact me.
-footer that displaying a copyright notice.
 
 
 Sources: https://www.tutorialspoint.com/css/css_cursors.htm https://www.w3schools.com/cssref/pr_class_cursor.asp
